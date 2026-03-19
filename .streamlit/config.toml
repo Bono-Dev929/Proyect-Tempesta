@@ -1,0 +1,15 @@
+[theme]
+# El color principal para los botones y acentos (un celeste eléctrico)
+primaryColor = "#00A8E8"
+
+# El color de fondo principal (un azul casi negro)
+backgroundColor = "#0a9077"
+
+# El color de fondo secundario para las tarjetas o barras laterales
+secondaryBackgroundColor = "#1C2541"
+
+# El color del texto (blanco/gris claro para que contraste bien)
+textColor = "#FFFFFF"
+
+# La tipografía (puede ser "sans serif", "serif" o "monospace")
+font = "sans serif"
